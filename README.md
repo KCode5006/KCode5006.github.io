@@ -1,7 +1,7 @@
 ## Kevin Hale Portfolio and Resume Supplement Material:
 
 Linkedin: 
-https://www.linkedin.com/in/kevinbhale/
+[https://www.linkedin.com/in/kevinbhale/](https://www.linkedin.com/in/kevinbhale/)
 
 Presentation summarizing a Udemy class on Model Predictive Control: 
 https://www.youtube.com/channel/UC1L0pRGUYspWs5lUicnIYHg
