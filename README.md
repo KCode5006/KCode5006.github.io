@@ -4,8 +4,8 @@ Linkedin:
 [www.linkedin.com/in/kevinbhale/](https://www.linkedin.com/in/kevinbhale/)
 
 Presentation summarizing a Udemy class on Model Predictive Control:  
-https://www.youtube.com/channel/UC1L0pRGUYspWs5lUicnIYHg
+[www.youtube.com/channel/UC1L0pRGUYspWs5lUicnIYHg](https://www.youtube.com/channel/UC1L0pRGUYspWs5lUicnIYHg)
 
 Python code used to track the trades of my stock market portfolio strategy:  
-https://github.com/KCode5006/Stocks-Code
+[github.com/KCode5006/Stocks-Code](https://github.com/KCode5006/Stocks-Code)
 
